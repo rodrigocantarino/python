@@ -1,5 +1,4 @@
 """
-
 String type
 
 On Python a data is considered String:
@@ -8,7 +7,6 @@ On Python a data is considered String:
 
 Scape char: \
  - Example: 'I don\'t Know!'
-
 """
 
 single_quotation_marks = 'string'

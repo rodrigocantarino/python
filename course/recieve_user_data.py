@@ -1,9 +1,7 @@
 """
-
 Receive data from user
 
 All data received via input() is a string type
-
 """
 from datetime import datetime
 

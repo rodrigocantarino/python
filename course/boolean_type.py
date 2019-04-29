@@ -4,6 +4,7 @@ Boolean type
 
 Two constants: True or False
 
+
 """
 
 value = True

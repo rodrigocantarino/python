@@ -1,5 +1,4 @@
 """
-
 Ranges
 
 See: https://www.pythoncentral.io/pythons-range-function-explained/

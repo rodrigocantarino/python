@@ -1,5 +1,4 @@
 """
-
 Variables Scope:
 Is the region of a computer program where the binding is valid:
 where the name can be used to refer to the entity.

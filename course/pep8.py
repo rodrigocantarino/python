@@ -7,7 +7,6 @@ Zen of Python
 
 import this
 
-
 Write python code right
 
 [1] - Use camel case on Classes names

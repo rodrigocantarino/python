@@ -1,10 +1,8 @@
 """
-
 Loop structure WHILE:
 
 while condition (is true):
     //execute code
-
 """
 
 age = 33
