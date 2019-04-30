@@ -1,6 +1,6 @@
-# [UDEMY Python Programming course from basic to advanced](https://www.udemy.com/curso-de-programacao-em-python-do-basico-ao-avancado)
+# [UDEMY](https://www.udemy.com/curso-de-programacao-em-python-do-basico-ao-avancado) Python Programming course from basic to advanced
 
-# [See](https://github.com/rodrigocantarino/python/blob/master/course/docs/Geek-University-Programa-o-em-Python-Essencial.png)
+[See all sessions](https://github.com/rodrigocantarino/python/blob/master/course/docs/Geek-University-Programa-o-em-Python-Essencial.png)
 
 - Session 1 
 - - Presentation
@@ -25,4 +25,7 @@
 
 - Session 8
 - - Functions
+
+- Session 9
+- - Comprehensions
 

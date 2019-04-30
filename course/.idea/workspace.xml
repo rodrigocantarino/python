@@ -2,47 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c88e1393-38b1-47d7-b823-cbec0ff49c6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/default_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/defining_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deque.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/exercicios-python-secao04-53e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/exercicios-python-secao05-41e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/exercicios-python-secao06-62e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/exercicios-python-secao07-p1-39e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/exercicios-python-secao07-p2-25e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/exercicios-python-secao08-73e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documenting_functions_with_docstrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_with_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_with_default_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_with_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/named_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordered_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensions_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensions_list_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensions_list_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensions_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boolean_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/boolean_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/break.py" beforeDir="false" afterPath="$PROJECT_DIR$/break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditionals_if_else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditionals_if_else_elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir_help.py" beforeDir="false" afterPath="$PROJECT_DIR$/dir_help.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/float_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/float_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logic_structures_and_or_not_is.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic_structures_and_or_not_is.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop for.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numeric_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/numeric_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pep8.py" beforeDir="false" afterPath="$PROJECT_DIR$/pep8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/ranges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recieve_user_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/recieve_user_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable_scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/variable_scope.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,95 +18,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/numeric_type.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="25">
+                <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ordered_dict.py">
+        <entry file="file://$PROJECT_DIR$/comprehensions_list_part1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pep8.py">
+        <entry file="file://$PROJECT_DIR$/comprehensions_list_part2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#1287#1297#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-32">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ranges.py">
+        <entry file="file://$PROJECT_DIR$/nested_lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="735">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="47" selection-end-line="49" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recieve_user_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-167">
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string_type.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-677">
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tuples.py">
+        <entry file="file://$PROJECT_DIR$/comprehensions_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <caret lean-forward="true" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/variable_scope.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comprehensions_set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-107">
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -163,7 +93,6 @@
         <option value="$PROJECT_DIR$/data_sets.py" />
         <option value="$PROJECT_DIR$/defining_functions.py" />
         <option value="$PROJECT_DIR$/args.py" />
-        <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/boolean_type.py" />
         <option value="$PROJECT_DIR$/break.py" />
         <option value="$PROJECT_DIR$/conditionals_if_else_elif.py" />
@@ -194,6 +123,12 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tuples.py" />
         <option value="$PROJECT_DIR$/variable_scope.py" />
+        <option value="$PROJECT_DIR$/comprehensions_list_part1.py" />
+        <option value="$PROJECT_DIR$/comprehensions_list_part2.py" />
+        <option value="$PROJECT_DIR$/nested_lists.py" />
+        <option value="$PROJECT_DIR$/comprehensions_dictionary.py" />
+        <option value="$PROJECT_DIR$/comprehensions_set.py" />
+        <option value="$PROJECT_DIR$/../README.md" />
       </list>
     </option>
   </component>
@@ -238,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kwargs">
-    <configuration name="args" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.comprehensions_set">
+    <configuration name="comprehensions_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehensions_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="documenting_functions_with_docstrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="comprehensions_list_part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/documenting_functions_with_docstrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehensions_list_part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions_with_default_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="comprehensions_list_part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,7 +228,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_with_default_parameters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehensions_list_part2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions_with_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="comprehensions_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,7 +249,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_with_parameters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehensions_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nested_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,7 +270,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nested_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kwargs" />
-        <item itemvalue="Python.args" />
-        <item itemvalue="Python.documenting_functions_with_docstrings" />
-        <item itemvalue="Python.functions_with_default_parameters" />
-        <item itemvalue="Python.functions_with_parameters" />
+        <item itemvalue="Python.comprehensions_set" />
+        <item itemvalue="Python.comprehensions_dictionary" />
+        <item itemvalue="Python.nested_lists" />
+        <item itemvalue="Python.comprehensions_list_part2" />
+        <item itemvalue="Python.comprehensions_list_part1" />
       </list>
     </recent_temporary>
   </component>
@@ -371,12 +306,12 @@
     <frame x="36" y="22" width="1244" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1888798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.409621" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.409621" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,23 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="125" selection-start-line="2" selection-start-column="125" selection-end-line="2" selection-end-column="125" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="55" column="105" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="105" />
         </state>
       </provider>
     </entry>
@@ -513,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -562,17 +473,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numeric_type.py">
+    <entry file="file://$PROJECT_DIR$/variable_scope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="-106">
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ordered_dict.py">
+    <entry file="file://$PROJECT_DIR$/tuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recieve_user_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ranges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -586,52 +532,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ranges.py">
+    <entry file="file://$PROJECT_DIR$/ordered_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recieve_user_data.py">
+    <entry file="file://$PROJECT_DIR$/numeric_type.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-167">
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sets.py">
+    <entry file="file://$PROJECT_DIR$/args.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
+        <state relative-caret-position="253">
+          <caret line="55" column="105" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="105" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string_type.py">
+    <entry file="file://$PROJECT_DIR$/nested_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-677">
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="735">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="47" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/comprehensions_list_part2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="-32">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuples.py">
+    <entry file="file://$PROJECT_DIR$/kwargs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="113" column="9" lean-forward="true" selection-start-line="111" selection-end-line="113" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensions_list_part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensions_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <caret lean-forward="true" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/variable_scope.py">
+    <entry file="file://$PROJECT_DIR$/comprehensions_set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="25">
+            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
