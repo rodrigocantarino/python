@@ -29,3 +29,6 @@
 - Session 9
 - - Comprehensions
 
+- Session 10
+- - Lambda expressions and integrated functions
+
