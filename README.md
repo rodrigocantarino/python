@@ -32,3 +32,6 @@
 - Session 10
 - - Lambda expressions and integrated functions
 
+- Session 11
+- - Debugging and Handling Errors
+
