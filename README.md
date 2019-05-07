@@ -3,35 +3,38 @@
 [See all sessions](https://github.com/rodrigocantarino/python/blob/master/course/docs/Geek-University-Programa-o-em-Python-Essencial.png)
 
 - Session 1 
-- - Presentation
+  - Presentation
 
 - Session 2 
-- - Preparing the environment
+  - Preparing the environment
 
 - Session 3 
-- - Introduction to Python language
+  - Introduction to Python language
 
 - Session 4
-- - Variables and data types
+  - Variables and data types
 
 - Session 5
-- - Logical and conditional structures
+  - Logical and conditional structures
 
 - Session 6
-- - Loop structures
+  - Loop structures
 
 - Session 7
-- - Collections
+  - Collections
 
 - Session 8
-- - Functions
+  - Functions
 
 - Session 9
-- - Comprehensions
+  - Comprehensions
 
 - Session 10
-- - Lambda expressions and integrated functions
+  - Lambda expressions and integrated functions
 
 - Session 11
-- - Debugging and Handling Errors
+  - Debugging and Handling Errors
+
+- Session 12
+  - Modules and Packages in Python
 
