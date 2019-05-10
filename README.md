@@ -43,3 +43,6 @@
 
 - Session 14
   - Iterators and Generators
+
+- Session 15
+  - Decorators in Python
