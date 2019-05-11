@@ -46,3 +46,6 @@
 
 - Session 15
   - Decorators in Python
+
+- Session 16
+  - Object-oriented programming in Python
