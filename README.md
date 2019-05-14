@@ -49,3 +49,6 @@
 
 - Session 16
   - Object-oriented programming in Python
+
+- Session 17
+  - Inheritance and polymorphism
