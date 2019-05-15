@@ -52,3 +52,7 @@
 
 - Session 17
   - Inheritance and polymorphism
+
+- Session 18
+  - Manipulating CSV files and JSON
+  
