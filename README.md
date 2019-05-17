@@ -56,3 +56,5 @@
 - Session 18
   - Manipulating CSV files and JSON
   
+- Session 19
+  - Date and Time
